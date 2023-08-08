@@ -36,7 +36,7 @@ class App extends Component {
     const filterRobots = robots.filter((robot) => {
       return robot.name.toLowerCase().includes(searchfield.toLowerCase());
     });
-    if (robots.length === 0) {
+    if (!robots.length) {
       return <h1 className="tc pa6">Loading...</h1>;
     } else {
       return (
