@@ -21,7 +21,7 @@ class App extends Component {
       })
       .then((users) => {
         this.setState({
-          //  robots: users
+          robots: users,
         });
       });
   }
