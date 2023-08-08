@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import CardList from "../components/CardList";
-// import { robots } from "./robots";
 import SearchBox from "../components/SearchBox";
 import "./App.css";
 import Scroll from "../components/Scroll";
+import Footer from "../components/Footer";
 
 class App extends Component {
   constructor() {
@@ -45,7 +45,7 @@ class App extends Component {
         <Scroll>
           <CardList robots={filterRobots} />
         </Scroll>
-        ;
+        <Footer />;
       </div>
     );
   }
