@@ -11,6 +11,8 @@ const CardList = ({ robots }) => {
             id={robots[i].id}
             name={robots[i].name}
             email={robots[i].email}
+            city={robots[i].address.city}
+            zipcode={robots[i].address.zipcode}
           />
         );
       })}
