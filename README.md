@@ -13,19 +13,19 @@ Simple application that displays a list of robots and allows user to to filter t
 
 ## Table of Contents
 
-**[User&nbsp;Story](#User Story)**<br>
+**[User Story](#user-story)**<br>
 
-**[Installation](#Installation)**<br>
+**[Installation](#installation)**<br>
 
-**[Deployment](#Deployment)**<br>
+**[Deployment](#deployment)**<br>
 
-**[License](#License)**<br>
+**[License](#license)**<br>
 
-**[Contributing](#Contributing)**<br>
+**[Contributing](#contributing)**<br>
 
-**[Resources](#Resources)**<br>
+**[Resources](#resources)**<br>
 
-**[Questions](#Questions)**<br>
+**[Questions](#questions)**<br>
 
 ## User Story 
 
