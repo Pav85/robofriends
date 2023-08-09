@@ -48,4 +48,22 @@ https://pav85.github.io/robofriends/
 
 After running the app your generated team page should look similar to this:
 
-![My React Portfolio](./src/components/Images/screenshot.png)
+![Robofriends](./public/robofriends.png)
+
+## License
+
+This project is licensed under the MIT license.
+
+## Contributing
+
+You need to fork this repository and submit a pull request.
+
+## Resources
+
+This app was build with help from [Zero to Mastery](https://zerotomastery.io/) online academy
+
+## Questions
+
+If you have any questions about this project, open an issue or contact me directly at
+pawel.werbowy@gmail.com. If you want to take a look at more of my work click on the following link:
+https://github.com/Pav85. Thank you for your time and I hope you enjoyed.
